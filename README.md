@@ -8,11 +8,11 @@ Ce projet est une application backend développée avec Spring Boot qui expose u
 L’API suit une architecture en couches (Controller, Service, Repository) afin d’assurer une bonne organisation du code, une maintenance facile et une scalabilité du projet.
 
 🛠️ Technologies utilisées
-Java 17+
-Spring Boot
-Spring Web (REST API)
-Spring Data JPA
-MySQL
-Maven
-Postman (tests API)
+Java 17+,
+Spring Boot,
+Spring Web (REST API),
+Spring Data JPA,
+MySQL,
+Maven,
+Postman (tests API),
 🗄️ Base de donnée
